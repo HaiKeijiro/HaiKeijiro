@@ -1,12 +1,5 @@
-## Hi 👋 I'm Hadi.
-
-**`Full Stack Web Developer`**
-
-This is only the beginning. I am currently a typical university student studying Information Systems. I'm working on learning website stacking in MERN, but I'm open to other tech-related opportunities. 
-
-### Current Skills:
-- HTML
-- CSS
-- JavaScript & Node JS
-- React
-- PHP
+- 👋 Hi, I'm Hadi | @keijiro
+- 👀 I'm interested in Web Development, UI/UX Design, and Machine Learning
+- 🌐 I'm currently learning Full-Stack MERN.
+- ⭐ I'm looking to collaborate on website for any kinds of website project for the time being.
+- 📩 Kindly DM me on Twitter: @haikeijirou
