@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Hadi | @keijiro
+- 👋 Hi, I'm Hadi 
 - 👀 I'm interested in Web Development, UI/UX Design, and Machine Learning
 - 🌐 I'm currently learning Full-Stack MERN.
 - ⭐ I'm looking to collaborate on any kind of website project for the time being.
